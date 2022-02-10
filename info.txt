@@ -1,2 +1,53 @@
 Tuna Saygın - 22102566 - https://github.com/TunaSaygin
 My favorite game is Age Of Empires 4
+commit e908ccfb13ac4f2edca36d057e3a534eee17b075 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 08e4175 542ac68
+Author: TunaSaygin <91385993+TunaSaygin@users.noreply.github.com>
+Date:   Thu Feb 10 10:56:48 2022 +0300
+
+    Merge pull request #1 from TunaSaygin/new_information
+
+    Favorite game is added to info.txt
+
+:...skipping...
+commit e908ccfb13ac4f2edca36d057e3a534eee17b075 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 08e4175 542ac68
+Author: TunaSaygin <91385993+TunaSaygin@users.noreply.github.com>
+Date:   Thu Feb 10 10:56:48 2022 +0300
+
+    Merge pull request #1 from TunaSaygin/new_information
+
+    Favorite game is added to info.txt
+
+commit 542ac6811495bbc8c3a7680fd19b38e33e7ac0db (origin/new_information, new_information)
+Author: Tuna Saygin <tuna.saygin@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 10:51:03 2022 +0300
+
+    Favorite game is added to info.txt
+
+commit 08e417563d72b4dff6df2341f89320b266b81078
+:...skipping...
+commit e908ccfb13ac4f2edca36d057e3a534eee17b075 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 08e4175 542ac68
+Author: TunaSaygin <91385993+TunaSaygin@users.noreply.github.com>
+Date:   Thu Feb 10 10:56:48 2022 +0300
+
+    Merge pull request #1 from TunaSaygin/new_information
+    
+    Favorite game is added to info.txt
+
+commit 542ac6811495bbc8c3a7680fd19b38e33e7ac0db (origin/new_information, new_information)
+Author: Tuna Saygin <tuna.saygin@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 10:51:03 2022 +0300
+
+    Favorite game is added to info.txt
+
+commit 08e417563d72b4dff6df2341f89320b266b81078
+Author: Tuna Saygin <tuna.saygin@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 10:46:49 2022 +0300
+
+    Tuna Saygın updated info.txt
+
+commit 276a451c1b4363e499d0b2013a5ad2d6a259b45a
+Author: TunaSaygin <91385993+TunaSaygin@users.noreply.github.com>
+Date:   Thu Feb 10 10:39:48 2022 +0300
